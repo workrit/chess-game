@@ -1,0 +1,4 @@
+###chess board
+- [ ] Make a board using SFML and SDL choose the easy one
+- [ ] Make a chess engine
+- [ ] Finalise the  Project
